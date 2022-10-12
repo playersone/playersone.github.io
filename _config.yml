@@ -1,0 +1,13 @@
+# Site settings
+title: Players Games
+tag_text: Players Games
+description: Connecting Gaming Lovers!
+url: "https://players.one"
+destination: "docs"
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
