@@ -4,7 +4,7 @@ layout: default
 
 <img src="images/logo.png" alt="players games logo">
 
-## We make games.
+## We make Sudoku, Blocks, and games designed by players for players.
 
 ### Sudoku Blocks
 
@@ -16,6 +16,8 @@ Sudoku Blocks is a challenging yet relaxing puzzle game you won’t be able to p
   <li><i class="fa-li fa fa-brands fa-apple"></i><a href="https://apps.apple.com/app/id6443567882?ct=players.one">Download on the App Store</a></li>
   <li><i class="fa-li fa fa-brands fa-play"></i><a href="https://play.google.com/store/apps/details?id=one.players.sudokublocks">Get it on Google Play</a></li>
 </ul>
+
+> "A good mix of skill, strategy, and luck. The graphics are well-designed and modern. Surprisingly fun."
 
 #### Join us.
 
