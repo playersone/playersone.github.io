@@ -21,9 +21,9 @@ Sudoku Blocks is a challenging yet relaxing puzzle game you won’t be able to p
 
 > "Like most of these classic jewel block puzzle games, this one is excellent for special needs individuals like me with autism, as it is terrific for teaching perceptual skills. Additionally, the Sudoku blocks add an extra challenge, making the whole layout absolutely terrific. I am so proud to have this game on my very own cell phone. Do keep up the great work; this game is excellent and fun to play."
 
-### Players Simulator (Brazilian app stores only)
+### Players Simulator
 
-With this investment simulator (using fictitious money), learn how to invest in practice and develop your financial independence.
+With this investment simulator (using fictitious money), learn how to invest in practice and develop your financial independence (Brazilian app stores only).
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-brands fa-apple"></i><a href="https://apps.apple.com/app/id6468494664?ct=players.one">Download on the App Store</a></li>
