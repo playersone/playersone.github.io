@@ -19,6 +19,8 @@ Sudoku Blocks is a challenging yet relaxing puzzle game you won’t be able to p
 
 > "A good mix of skill, strategy, and luck. The graphics are well-designed and modern. Surprisingly fun."
 
+> "Like most of these classic jewel block puzzle games, this one is excellent for special needs individuals like me with autism, as it is terrific for teaching perceptual skills. Additionally, the Sudoku blocks add an extra challenge, making the whole layout absolutely terrific. I am so proud to have this game on my very own cell phone. Do keep up the great work; this game is excellent and fun to play."
+
 #### Join us.
 
 We're seeking collaborators who are lovers of what they do. We're always [hiring](mailto:website@players.one) for all positions.
